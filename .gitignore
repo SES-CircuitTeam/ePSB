@@ -12,6 +12,15 @@ _autosave-*
 *-save.kicad_sch
 *-save.pro
 
+# ===== Altium Designer =====
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+
 # ===== Fabrication outputs (attach to GitHub Releases instead) =====
 *.zip
 *.gbr

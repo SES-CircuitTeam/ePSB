@@ -1,11 +1,12 @@
-ePSB - Dual-rail Power Supply Board
+ePSB - eFuse Power Supply Board
 Copyright (C) 2026 Nakamura Tomoaki / System EngineerS (SES-CircuitTeam)
 
 This repository is licensed under two licences, depending on the type of file.
 
 1. Hardware design files and documentation
-   (KiCad schematics, PCB layouts, libraries, fabrication outputs, BOM,
-   drawings, documents, and all other files not covered by section 2)
+   (schematics, PCB layouts, and component libraries created with any EDA
+   tool, such as KiCad, Altium Designer, or others; fabrication outputs,
+   BOM, drawings, documents, and all other files not covered by section 2)
 
    SPDX-License-Identifier: CERN-OHL-S-2.0
    Full text: LICENSES/CERN-OHL-S-2.0.txt
@@ -38,5 +39,6 @@ This repository is licensed under two licences, depending on the type of file.
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
    Public License for more details.
 
-Third-party components (e.g. KiCad standard libraries, vendor HAL/CMSIS
-code) remain under their own licences.
+Third-party components (e.g. standard libraries bundled with EDA tools,
+manufacturer-provided component models, vendor HAL/CMSIS code) remain under
+their own licences.
