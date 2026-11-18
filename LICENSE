@@ -1,0 +1,42 @@
+ePSB - Dual-rail Power Supply Board
+Copyright (C) 2026 Nakamura Tomoaki / System EngineerS (SES-CircuitTeam)
+
+This repository is licensed under two licences, depending on the type of file.
+
+1. Hardware design files and documentation
+   (KiCad schematics, PCB layouts, libraries, fabrication outputs, BOM,
+   drawings, documents, and all other files not covered by section 2)
+
+   SPDX-License-Identifier: CERN-OHL-S-2.0
+   Full text: LICENSES/CERN-OHL-S-2.0.txt
+
+   You may redistribute and modify this source and make products using it
+   under the terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).
+
+   This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+   INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+   PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+   Source location: https://github.com/SES-CircuitTeam/ePSB
+
+   As per CERN-OHL-S v2 section 4, should you produce hardware based on this
+   source, you must display the Source Location visibly and securely
+   on the PCB silkscreen, its packaging, or its documentation.
+
+2. Software (firmware source code, scripts, and build files)
+
+   SPDX-License-Identifier: GPL-3.0-or-later
+   Full text: LICENSES/GPL-3.0-or-later.txt
+
+   This program is free software: you can redistribute it and/or modify it
+   under the terms of the GNU General Public License as published by the
+   Free Software Foundation, either version 3 of the License, or (at your
+   option) any later version.
+
+   This program is distributed in the hope that it will be useful, but
+   WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+   Public License for more details.
+
+Third-party components (e.g. KiCad standard libraries, vendor HAL/CMSIS
+code) remain under their own licences.

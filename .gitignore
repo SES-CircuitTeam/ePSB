@@ -1,0 +1,36 @@
+# ===== KiCad =====
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+~*.lck
+_autosave-*
+\#auto_saved_files\#
+*.bak
+*.bck
+*-save.kicad_pcb
+*-save.kicad_sch
+*-save.pro
+
+# ===== Fabrication outputs (attach to GitHub Releases instead) =====
+*.zip
+*.gbr
+*.drl
+
+# ===== STM32CubeIDE / firmware build =====
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+.settings/language.settings.xml
+
+# ===== OS / editor =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
